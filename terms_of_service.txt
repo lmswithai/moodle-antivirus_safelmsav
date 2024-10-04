@@ -1,0 +1,40 @@
+1. Introduction
+These Terms govern the use of the Safe LMS AV antivirus plugin, provided by Intersieć, located at  Karola Godula 36, Ruda Śląska, 41-703, Poland (NIP: PL6262548222). By installing and using the plugin, you agree to these Terms.
+
+2. License & Usage
+a) You are granted a limited, non-exclusive license to use the plugin solely for its intended purpose.
+b) You may not resell, redistribute, Your API key.
+
+3.  Updates & Support
+a) Regular updates may be necessary to maintain optimal performance and protect against new threats.
+b) We do not guarantee uninterrupted operation of the plugin or availability of future updates.
+c) Users are responsible for maintaining system compatibility and ensuring that updates are applied.
+
+4.  Data Collection & Privacy
+a) The plugin may collect anonymized data related to detected threats to improve overall functionality.
+b) No personal data will be collected, processed, or shared without explicit consent, except as required by law.
+c) The plugin does not transmit any user files or private data externally unless specified.
+
+5.  Limitation of Liability
+a) The plugin is provided "as is," without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+b) We are not liable for any direct, indirect, incidental, or consequential damages arising from the use of the plugin, including but not limited to financial losses, data loss, system corruption, or issues resulting from malware infection, despite the use of the plugin.
+c) While we strive to provide comprehensive protection, we cannot guarantee complete security against all threats, given the evolving nature of malicious software.
+
+6.  Warranties & Exclusions
+a) We make no guarantees regarding the effectiveness of the plugin in detecting or removing all threats.
+b) We are not responsible for any incompatibility with other software or systems.
+c) The plugin may not function correctly on all devices, and no assurances are made regarding availability for certain systems.
+
+7.  User Responsibility
+a) The user agrees to use the plugin in accordance with these Terms and all applicable laws.
+b) The user is responsible for the backup of their data and maintaining additional security measures.
+c) You agree to indemnify and hold us harmless from any claims, damages, or liabilities arising out of improper use of the plugin or violation of these Terms.
+
+8.  Modifications to the Terms
+We reserve the right to modify these Terms at any time. Users will be notified of changes via electronic communication or through plugin updates. Continued use of the plugin after any changes to the Terms signifies acceptance of the updated Terms.
+
+9.  Termination
+We reserve the right to terminate your license and access to the plugin in the event of a violation of these Terms. Upon termination, you must cease all use of the plugin immediately.
+
+10.  Governing Law
+These Terms are governed by Polish law. Any disputes arising from these Terms will be settled in the courts of Poland.
